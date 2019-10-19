@@ -1,0 +1,24 @@
+.ui-icon-compare:after {
+    background-image: url("images/comparisonicon.png");
+    background-color: transparent;
+  }
+
+  .ui-icon-goalicon:after {
+    background-image: url("images/goalicon.png");
+    background-color: transparent;
+  }
+
+  .ui-icon-mockscreenicon:after {
+    background-image: url("images/mockscreenicon.png");
+    background-color: transparent;
+  }
+
+  .ui-icon-userstories:after {
+    background-image: url("images/userst.png");
+    background-color: transparent;
+  }
+
+  .ui-icon-techtoolicon:after {
+    background-image: url("images/techtoolicon.png");
+    background-color: transparent;
+  }
